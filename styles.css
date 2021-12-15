@@ -1,0 +1,32 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #9EE7FB;
+}
+
+h1 {
+  margin: 50px 0 30px;
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-size: 6rem;
+  color: #28697A;
+}
+
+p {
+  font-size: 2rem;
+  color: #28697A;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+
+img {
+  width: 70%;
+}
